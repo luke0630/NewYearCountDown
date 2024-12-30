@@ -47,7 +47,6 @@ public final class NewYearCountDown extends JavaPlugin {
     private void startCountdown() {
         new BukkitRunnable() {
             int previousSecond = -1;
-            long previousMinute = -1;
 
             @Override
             public void run() {
