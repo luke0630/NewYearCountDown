@@ -1,0 +1,4 @@
+name: NewYearCountDown
+version: '1.0'
+main: org.luke.newYearCountDown.NewYearCountDown
+api-version: '1.21'
